@@ -1,4 +1,4 @@
-package desafio_DIO;
+package desafio_dio;
 
 public class ParametrosInvalidosException extends Exception {
     public ParametrosInvalidosException(String mensagem) {

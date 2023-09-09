@@ -1,4 +1,4 @@
-package desafio_DIO.DesafioControleFluxo.src;
+package desafio_dio.DesafioControleFluxo.src;
 
 
 /*O sistema deverá receber dois parâmetros via terminal que representarão dois números inteiros, com estes dois números você deverá obter a quantidade de interações (for) e realizar a impressão no console (System.out.print) dos números incrementados, exemplo:
@@ -11,7 +11,7 @@ Dentro do projeto, crie a classe ParametrosInvalidosException que representará 
  */
 import java.util.Scanner;
 
-import desafio_DIO.ParametrosInvalidosException;
+import desafio_dio.ParametrosInvalidosException;
 
 
 
