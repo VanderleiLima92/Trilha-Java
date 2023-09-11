@@ -6,7 +6,7 @@ package primeiras_aulas.exerciciosfaculdade;
 
 import java.util.Scanner;
 
-public class exerc01 {
+public class Exerc01 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
@@ -20,11 +20,11 @@ public class exerc01 {
         numReal = sc.nextDouble();
 
         if(numInteiro < numReal){
-            System.out.format("O número inteiro: %d é menor que o número real: %d \n", numInteiro, numReal);
+            System.out.format("O número inteiro: %d é menor que o número real: %.2f \n", numInteiro, numReal);
         }
 
         else{
-            System.out.format("O número real: %d é menor que o número inteiro: %d \n", numReal, numInteiro );
+            System.out.format("O número real: %.2f é menor que o número inteiro: %d \n", numReal, numInteiro );
         }
 
         sc.close();
