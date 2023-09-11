@@ -1,2 +1,2 @@
 # Trilha-Java
-Repositório criado armazenar todo meu aprendizado em Java
+Repositório criado para armazenar todo meu aprendizado em Java
