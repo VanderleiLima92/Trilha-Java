@@ -9,7 +9,7 @@ public class ExercFor01 {
         int num = 0;
         int x = 100;
 
-        for(int i =0; i <100; i++){
+        for(int i =0; i <100; i = i+2){
             System.out.println(i);
         }
 
