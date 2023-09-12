@@ -1,3 +1,5 @@
+package primeiras_aulas.exerciciosfaculdade;
+
 import java.util.Scanner;
 
 

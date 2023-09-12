@@ -1,3 +1,5 @@
+package primeiras_aulas.exerciciosfaculdade;
+
 /*Ler 4 números, calcular o quadrado para cada um, somar todos os quadrados e mostrar o
 resultado. */
 

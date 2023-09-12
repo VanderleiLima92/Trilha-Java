@@ -1,3 +1,5 @@
+package primeiras_aulas.exerciciosfaculdade;
+
 /*Ler as dimensões de um retângulo (base e altura), calcular e escrever a área do
 retângulo. */
 

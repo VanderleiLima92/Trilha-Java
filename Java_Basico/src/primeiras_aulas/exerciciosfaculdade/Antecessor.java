@@ -1,3 +1,4 @@
+package primeiras_aulas.exerciciosfaculdade;
 
 /*Ler um valor inteiro e exibir seu antecessor. */
 

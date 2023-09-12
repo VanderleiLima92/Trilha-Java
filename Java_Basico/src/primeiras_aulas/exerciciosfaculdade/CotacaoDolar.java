@@ -1,3 +1,4 @@
+package primeiras_aulas.exerciciosfaculdade;
 
 /* ler a cotação do dolar e a quantidade de dolares
  * converter para real e mostrar o resultado

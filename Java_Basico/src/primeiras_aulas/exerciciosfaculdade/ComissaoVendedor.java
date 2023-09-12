@@ -1,3 +1,4 @@
+package primeiras_aulas.exerciciosfaculdade;
 
 /*Calcular o pagamento de comissão de vendedores de peças, levando-se em
 consideração que sua comissão será de 5% do total da venda e que você tem os seguintes
