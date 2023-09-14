@@ -2,7 +2,7 @@
 /*2. Escreva um programa que faz a leitura de dois números reais e verifica se eles são iguais. Se forem, o programa
 deve mostrar uma mensagem ao usuário informando-o disso. Caso contrário, o programa somente termina. */
 
-package primeiras_aulas.exerciciosfaculdade;
+package primeiras_aulas.exerciciosfaculdade.lista_exercicios.lista03_selecao;
 
 import java.util.Scanner;
 

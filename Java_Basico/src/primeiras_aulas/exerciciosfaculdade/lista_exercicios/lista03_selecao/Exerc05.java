@@ -2,7 +2,7 @@
 /*5. Escreva um programa que lê três inteiros a partir do teclado e imprime a soma, a média, o produto, o menor e o
 maior desses números */
 
-package primeiras_aulas.exerciciosfaculdade;
+package primeiras_aulas.exerciciosfaculdade.lista_exercicios.lista03_selecao;
 
 import java.util.Scanner;
 

@@ -3,7 +3,7 @@
 o maior número seguido pelas palavras “é o maior”. Se os números forem iguais, imprime a mensagem “Estes
 números são iguais”. */
 
-package primeiras_aulas.exerciciosfaculdade;
+package primeiras_aulas.exerciciosfaculdade.lista_exercicios.lista03_selecao;
 
 import java.util.Scanner;
 

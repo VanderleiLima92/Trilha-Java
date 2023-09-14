@@ -2,7 +2,7 @@
 /*1. Escreva um programa que exibe os primeiros 100 números naturais. Faça versões
 usando for, while e do/while */
 
-package primeiras_aulas.exerciciosfaculdade;
+package primeiras_aulas.exerciciosfaculdade.lista_exercicios.lista04_repeticao;
 
 public class ExercFor01 {
     public static void main(String[] args){

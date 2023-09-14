@@ -1,4 +1,6 @@
-package primeiras_aulas.exerciciosfaculdade;
+
+
+package primeiras_aulas.exerciciosfaculdade.lista_exercicios.lista04_repeticao;
 
 import java.util.Scanner;
 

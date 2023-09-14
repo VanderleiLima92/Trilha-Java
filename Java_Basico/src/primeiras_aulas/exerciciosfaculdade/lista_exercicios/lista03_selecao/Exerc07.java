@@ -11,7 +11,7 @@ desejado e exibir o valor de cada parcela, que é calculado sobre o valor com ju
 Caso o usuário digite alguma opção diferente de 0, 1 ou 2, o programa deve informar “opção inválida” e
 terminar. */
 
-package primeiras_aulas.exerciciosfaculdade;
+package primeiras_aulas.exerciciosfaculdade.lista_exercicios.lista03_selecao;
 
 import java.util.Scanner;
 

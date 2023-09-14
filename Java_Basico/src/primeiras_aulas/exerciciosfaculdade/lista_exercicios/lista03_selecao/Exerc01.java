@@ -2,7 +2,7 @@
 do que o número real, o programa deve imprimir uma mensagem dizendo isso ao usuário. Caso contrário, o programa
 somente termina. */
 
-package primeiras_aulas.exerciciosfaculdade;
+package primeiras_aulas.exerciciosfaculdade.lista_exercicios.lista03_selecao;
 
 import java.util.Scanner;
 

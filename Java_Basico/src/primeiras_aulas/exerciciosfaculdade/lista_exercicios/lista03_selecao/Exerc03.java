@@ -3,7 +3,7 @@
 programa imprime “primeiro maior do que o segundo”. Caso contrário, o programa imprime “segundo maior do que o
 primeiro”. */
 
-package primeiras_aulas.exerciciosfaculdade;
+package primeiras_aulas.exerciciosfaculdade.lista_exercicios.lista03_selecao;
 
 import java.util.Scanner;
 

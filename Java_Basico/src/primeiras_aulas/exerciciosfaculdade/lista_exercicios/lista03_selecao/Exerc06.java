@@ -3,7 +3,7 @@ valor que o usuário deseja sacar desta conta. Caso seja possível efetuar o saq
 programa deve mostrar o saldo remanescente. Caso contrário, deve informar o usuário que não foi possível realizar o
 saque */
 
-package primeiras_aulas.exerciciosfaculdade;
+package primeiras_aulas.exerciciosfaculdade.lista_exercicios.lista03_selecao;
 
 import java.util.Scanner;
 
